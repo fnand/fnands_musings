@@ -1,1 +1,1 @@
-Sitemap: https://fnand.github.io/fnands_musings/sitemap.xml
+Sitemap: https://ferdinandschenck.com/sitemap.xml
