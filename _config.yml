@@ -8,7 +8,7 @@
 
 title: Ferdi's Musings
 description: A place where I keep track of interesting ideas I run into.
-github_username: fnand
+github_username: fnands
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "fnands_musings"
 
@@ -40,7 +40,7 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: f_nan_d
-    github: fnand
+    github: fnands
 
 # Set this to true to get LaTeX math equation support
 use_math: 
